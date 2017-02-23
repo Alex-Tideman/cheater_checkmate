@@ -1,0 +1,16 @@
+{
+  "name": "cheat_checkmate",
+  "version": "1.0.0",
+  "description": "Check for copy paste of code in two files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Tideman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "lodash": "^4.17.4",
+    "request": "^2.79.0"
+  }
+}
